@@ -8,4 +8,4 @@ Instructions for running the game:
 1. Fill your name first
 2. You have to guess a character. For example: 'e'
 3. If you guessed it right then you have to guess next one if wrong guess then it will show you wrong and your chances of guesses will becme less.
-4. 
+   
